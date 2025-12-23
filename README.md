@@ -1,0 +1,2 @@
+# SmartAid
+To help people
